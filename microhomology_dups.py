@@ -1,4 +1,5 @@
 #microhomology INSERTION DUPLICATION quantification in python:
+import re
 import pandas as pd
 from bgreference import hg38
 import sys
